@@ -54,6 +54,7 @@ contract Bank is Regulator{
 }
 
 contract Lesson2 is Bank(10) {
+    
 
     // Opposite of Java - private String firstName;
     string private name;
